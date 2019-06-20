@@ -1,3 +1,7 @@
+functions/lib/
+functions/package-lock.json
+functions/node_modules/
+
 # Logs
 logs
 *.log
